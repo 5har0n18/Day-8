@@ -1,3 +1,36 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(251, 127, 255);
+    margin: auto;
+    padding: auto;
+}
+
+.container {
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+    height: 1000px;
+}
+
+.columns {
+    float: left;
+    width: 30px;
+    padding: 10px;
+}
+
+.one {
+    width: 70px ;
+}
+
+.two {
+    width: 50px;
+}
+
+.three {
+    width 30px:
+}
+
+footer {
+    clear: left;
+
 }
